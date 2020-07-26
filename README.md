@@ -4,10 +4,12 @@
 So this page is having information about **Yash Chandwani**
 
 He is a *Software Engineer*
+Who lives in Pune
 He has following qualities
 -A tech enthusiast
 -A good learner
 -With potential to work
+
 
 `How do you liked above Information, Just reply With rating as Below`
 1. Very well
